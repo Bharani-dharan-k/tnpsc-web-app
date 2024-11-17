@@ -33,6 +33,6 @@ This repository contains a PHP-based web application for the **Tamil Nadu Public
 
 ## DEMO
 
-![Frontend image](C:\xampp\htdocs\23CSR034\tnpsc-web\image3.png)
+![Frontend image](tnpsc-web\image3.png)
 
-![Frontend image](C:\xampp\htdocs\23CSR034\tnpsc-web\image4.png)
+![Frontend image](tnpsc-web\image4.png)

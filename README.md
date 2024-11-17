@@ -1,7 +1,7 @@
 # TNPSC Web Application
 
 This repository contains a PHP-based web application for the **Tamil Nadu Public Service Commission (TNPSC)**. The application includes user authentication, registration, and a responsive design powered by **Bootstrap 5**.
-
+---
 ## Features
 
 - **User Authentication**: Secure login and session management.
@@ -10,30 +10,30 @@ This repository contains a PHP-based web application for the **Tamil Nadu Public
 - **Carousel Sliders**: Image sliders to showcase important updates and visuals.
 - **Vacancy Details**: Displays recruitment vacancy data dynamically.
 - **Social Media Links**: Footer includes quick links to TNPSC’s social media.
-
+---
 ## Technologies Used
 
 - **Languages**: PHP, HTML, CSS
 - **Frameworks**: Bootstrap 5, Font Awesome
 - **JavaScript Libraries**: jQuery, Popper.js
 - **Google Drive Integration**: Links for downloadable model question papers.
-
+---
 ## Prerequisites
 
 - PHP 7.x or higher
 - A local or remote web server (e.g., Apache)
 - A database server (e.g., MySQL, if required for user data)
-
+---
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/tnpsc-web-app.git
    cd tnpsc-web-app
-
+---
 ## DEMO
 
 ![Frontend image](tnpsc-web/image3.png)
-
+<br/>
 ![Frontend image](tnpsc-web/image4.png)
 
